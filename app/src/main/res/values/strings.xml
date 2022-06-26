@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArduinoDisplay</string>
+    <string name="data">Data</string>
+    <string name="error_state_string">Такого быть не должно</string>
+</resources>
